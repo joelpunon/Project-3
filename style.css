@@ -43,7 +43,7 @@ nav li {
 .title {
   background-image: linear-gradient(to bottom, rgba(34,193,195,1) 0%, rgba(194,45,253,1) 100%)), url('https://cdn.pixabay.com/photo/2022/06/16/12/19/ai-7265839_1280.jpg'); 
   width: 80%;
-  height: 400px;
+  height: 200px;
   background-size: cover;
   color: white;
   padding: 20px;
