@@ -1,0 +1,10 @@
+body {
+  font-family: helvetica;
+  display: flex;
+  color: white;
+  background-color: black;
+}
+
+main {
+  flex: 1;
+  padding: 15px;
