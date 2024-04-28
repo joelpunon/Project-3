@@ -53,6 +53,15 @@ header {
   font-weight: bold;
   font-size: 24px;
   color: aquamarine;
-}  
+}
+
+.ref {
+  text-decoration: none;
+  color: aquamarine;
+}
+
+.ref:active {
+  background-color: aquamarine;
+  color: black;
   
   
