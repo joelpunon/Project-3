@@ -20,7 +20,7 @@ nav {
 }
 
 .nav {
-  list-style-type: none;
+  list-style-type: " ";
 }
 
 nav li {
@@ -47,6 +47,10 @@ nav li {
   background-size: cover;
   color: white;
   padding: 20px;
-}  
+}
+
+header {
+  font-weight: bold;
+  font-size: 24px;
   
   
