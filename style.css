@@ -51,9 +51,13 @@ nav li {
 
 header {
   font-weight: bold;
-  font-size: 24px;
+  font-size: 28px;
   color: aquamarine;
 }
+
+p {
+  font-size: 20px;
+}  
 
 .ref {
   text-decoration: none;
