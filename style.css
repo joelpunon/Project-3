@@ -24,7 +24,7 @@ nav {
 }
 
 nav li {
-  padding: 5px 0;
+  padding: 5px 10px 5px 0;
   margin: 0;
   border-bottom: solid 1px white;
   font-weight: bold;
